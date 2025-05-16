@@ -36,3 +36,31 @@ To analyze employee reimbursement data using Power BI:
 if [Currency] = null and [Amount] >= 1000 then "INR"
 else if [Currency] = null and [Amount] < 1000 then "USD"
 else [Currency]
+```
+Converted Amount to INR using the exchange rate in the Currency column:
+USD ➝ INR
+Euro ➝ INR
+(INR and blanks remain unchanged)
+
+## 🧮 DAX Measures Created
+-Total reimbursed amount in INR
+-Total reimbursed for Project_B using CALCULATE()
+-Count of declined requests
+
+## 📊 Visualizations
+-Slicer for Project and Employee
+-Bar Chart for Employees vs Reimbursement Amount
+-Pie Chart for Project vs Reimbursement Amount
+
+## 🛠️ Tools Used
+-Power BI Desktop
+-Power Query Editor
+-DAX (Data Analysis Expressions)
+
+##🔍 Insights Gained
+-This report helps:
+-Understand trends in employee reimbursements
+-Identify errors or unusual patterns
+-Monitor project-wise reimbursements
+
+
