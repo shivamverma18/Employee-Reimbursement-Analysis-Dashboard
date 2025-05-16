@@ -57,7 +57,7 @@ Euro ➝ INR
 - Power Query Editor
 - DAX (Data Analysis Expressions)
 
-##🔍 Insights Gained
+## 🔍 Insights Gained
 - This report helps:
 - Understand trends in employee reimbursements
 - Identify errors or unusual patterns
