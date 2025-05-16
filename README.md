@@ -43,24 +43,24 @@ Euro ➝ INR
 (INR and blanks remain unchanged)
 
 ## 🧮 DAX Measures Created
--Total reimbursed amount in INR
--Total reimbursed for Project_B using CALCULATE()
--Count of declined requests
+- Total reimbursed amount in INR
+- Total reimbursed for Project_B using CALCULATE()
+- Count of declined requests
 
 ## 📊 Visualizations
--Slicer for Project and Employee
--Bar Chart for Employees vs Reimbursement Amount
--Pie Chart for Project vs Reimbursement Amount
+- Slicer for Project and Employee
+- Bar Chart for Employees vs Reimbursement Amount
+- Pie Chart for Project vs Reimbursement Amount
 
 ## 🛠️ Tools Used
--Power BI Desktop
--Power Query Editor
--DAX (Data Analysis Expressions)
+- Power BI Desktop
+- Power Query Editor
+- DAX (Data Analysis Expressions)
 
 ##🔍 Insights Gained
--This report helps:
--Understand trends in employee reimbursements
--Identify errors or unusual patterns
--Monitor project-wise reimbursements
+- This report helps:
+- Understand trends in employee reimbursements
+- Identify errors or unusual patterns
+- Monitor project-wise reimbursements
 
 
